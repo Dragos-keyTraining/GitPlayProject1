@@ -6,5 +6,4 @@ public class TestGit {
 
   //remote
  //ceva
-
 }
